@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="錢包"
+        android:id="@+id/home"
+        android:icon="@drawable/wallet_icon2"
+        />
+    <item android:title="搜尋"
+        android:id="@+id/search"
+        android:icon="@drawable/filter_icon"
+        />
+    <item android:title="設定"
+        android:id="@+id/setting"
+        android:icon="@drawable/setting_icon"
+        />
+</menu>
